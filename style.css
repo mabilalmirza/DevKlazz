@@ -1,0 +1,28 @@
+/*
+    Single Source of truth for styling
+*/
+
+body {
+  background-color: blue;
+}
+
+h1 {
+  color: white;
+}
+
+a {
+  color: #eeeeee; 
+}
+
+.menu-link {
+  font-size: 20px;
+  color: yellow; 
+}
+
+.contact-details {
+    color: magenta;
+}
+
+.address {
+    font-size: 30px;
+}
